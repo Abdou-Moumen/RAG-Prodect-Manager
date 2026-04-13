@@ -1,0 +1,16 @@
+product_id,name,category,price,stock_quantity,rating,supplier,lead_time_days,reorder_point,last_month_sales
+P001,UltraBook Pro Laptop,Electronics,1299.99,47,4.8,TechSupply Inc,5,20,156
+P002,Wireless Noise Cancelling Headphones,Audio,249.99,128,4.6,SoundMaster Corp,3,50,342
+P003,4K Action Camera,Cameras,399.99,23,4.7,ActionGear Ltd,7,15,89
+P004,Smart Fitness Watch,Wearables,199.99,0,4.5,HealthTech Co,10,25,210
+P005,Mechanical Gaming Keyboard,Peripherals,89.99,156,4.4,KeyPress Inc,4,60,445
+P006,27-inch 4K Monitor,Electronics,449.99,12,4.7,DisplayPro,8,15,167
+P007,Wireless Gaming Mouse,Peripherals,49.99,234,4.3,ClickMaster,2,80,678
+P008,Portable SSD 1TB,Storage,129.99,89,4.8,FastStorage Inc,3,40,312
+P009,Smart Home Hub,Smart Home,89.99,5,4.2,HomeAI,6,20,98
+P010,USB-C Docking Station,Accessories,159.99,34,4.5,ConnectPlus,4,25,145
+P011,Streaming Webcam,Peripherals,79.99,0,4.1,ViewTech,9,30,67
+P012,Tablet with Stylus,Electronics,499.99,56,4.7,PadMaker Inc,6,30,203
+P013,Fitness Tracker,Wearables,79.99,67,4.3,HealthTech Co,3,40,189
+P014,Wireless Charging Pad,Accessories,29.99,145,4.2,PowerUp,2,60,432
+P015,RGB LED Strip Kit,Peripherals,39.99,0,4.0,LightShow Inc,14,25,234
